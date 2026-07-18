@@ -1,2 +1,2 @@
-This is footer.
-You can edit this in ../nostyleplease/layouts/footer.md
+There is a beauty in ordinary things... isn't that kind of a point?
+-- Pam
